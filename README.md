@@ -1,0 +1,2 @@
+# -Translation-
+Language Translation Tool
